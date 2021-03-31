@@ -1,0 +1,1 @@
+Exemple d'une application Flask très simple avec jQuery pour faire une requête AJAX à une API en libre accès.
